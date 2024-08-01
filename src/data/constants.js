@@ -32,7 +32,7 @@ import illustrater from '../images/icons8-adobe-illustrator-48.png';
    */
 
 export const Bio = {
-    name: "Anubhav",
+    name: "Niket",
     roles: [
       "Frontend Developer",
       "Android Developer",
@@ -41,7 +41,7 @@ export const Bio = {
     ],
     description:
       "Hey! 👋 As a UX enthusiast with a B.Tech in CSE, I wield Adobe XD, Figma, React Native, React and Android Studio  like a pro. I'm all about user research and design thinking, channeling my inner Sherlock Holmes. Let's team up and create innovative, rockstar experiences! 🚀🎨",
-    github: "https://github.com/Anubhx",
+    github: "https://github.com/theniketmishra",
     resume:
       "https://drive.google.com/file/d/19U2vQvmAc6UEUjvx75QESBXSzFeZk1_6/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/anubhax/",
