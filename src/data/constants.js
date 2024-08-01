@@ -36,7 +36,7 @@ export const Bio = {
     roles: [
       "Frontend Developer",
       "Android Developer",
-      "UI/UX Designer",
+      // "UI/UX Designer",
       "Programmer",
     ],
     description:
@@ -45,7 +45,7 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/19U2vQvmAc6UEUjvx75QESBXSzFeZk1_6/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/anubhax/",
-    twitter: "https://twitter.com/anubhavRaj0",
+    twitter: "https://twitter.com/NiketMishra0",
     insta: "https://www.instagram.com/anubhax.27/",
     facebook: "https://www.facebook.com/anubhax/",
   };
@@ -81,7 +81,7 @@ export const Bio = {
         {
           name: "Material UI",
           image:
-            "data:image/png;base64,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",
+            "data:image/png;base64,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",
         },
         {
           name: "Flutter",
@@ -138,32 +138,32 @@ export const Bio = {
     // },
 
 
-    {
-      title: "Design",
-      skills: [
-        {
-          name: "Figma",
-          image: figma,
-        },
-        {
-          name: "Adobe XD",
-          image: xd,
+    // {
+    //   title: "Design",
+    //   skills: [
+    //     {
+    //       name: "Figma",
+    //       image: figma,
+    //     },
+    //     {
+    //       name: "Adobe XD",
+    //       image: xd,
           
-        },
-        {
-          name: "Miro",
-          image: miro, 
-          },
+    //     },
+    //     {
+    //       name: "Miro",
+    //       image: miro, 
+    //       },
 
-        {
-           name: "Adobe Illustrator",
-           image: illustrater, 
-        },
+    //     {
+    //        name: "Adobe Illustrator",
+    //        image: illustrater, 
+    //     },
      
    
 
-      ],
-    },
+    //   ],
+    // },
     {
       title: "Android",
       skills: [
@@ -278,7 +278,7 @@ export const Bio = {
       description:
       "The React Native AirBnB Clone with Clerk is a mobile app that mimics AirBnB's core features using React Native and Expo, integrating Clerk for authentication and including OAuth, mapping, and advanced UI components. It offers a practical example for building sophisticated mobile apps.",
       image:
-        "https://github.com/Anubhx/AirBnB-Clone-using-React-Native-and-Expo-/blob/main/screenshots/PIC01.png?raw=true",
+        "https://github.com/theniketmishra/AirBnB-Clone-using-React-Native-and-Expo-/blob/main/screenshots/PIC01.png?raw=true",
       tags: [
         "Android",
         "typescript",
@@ -287,8 +287,8 @@ export const Bio = {
         "Clerk",
       ],
       category: "android app",
-      github: "https://github.com/Anubhx/AirBnB-Clone-using-React-Native-and-Expo-",
-      webapp: "https://github.com/Anubhx/AirBnB-Clone-using-React-Native-and-Expo-",
+      github: "https://github.com/theniketmishra/AirBnB-Clone-using-React-Native-and-Expo-",
+      webapp: "https://github.com/theniketmishra/AirBnB-Clone-using-React-Native-and-Expo-",
     },
     {
       id: 0,
@@ -308,10 +308,10 @@ export const Bio = {
       webapp: "https://www.behance.net/gallery/167171313/Language-Talk-(-Language-learning-App-)-Case-Study",
       member: [
         {
-          name: "Anubhav Raj",
+          name: "Niket Mishra",
           img: HeroImg,
           linkedin: "https://www.linkedin.com/in/anubhax/",
-          github: "https://github.com/Anubhx/",
+          github: "https://github.com/theniketmishra/",
         },
       ],
     },
@@ -347,8 +347,8 @@ export const Bio = {
         "Database Management",
       ],
       category: "Web App",
-      github: "https://github.com/Anubhx/-EmployeeManagementSystem/tree/master",
-      webapp: "https://github.com/Anubhx/-EmployeeManagementSystem/tree/master",
+      github: "https://github.com/theniketmishra/-EmployeeManagementSystem/tree/master",
+      webapp: "https://github.com/theniketmishra/-EmployeeManagementSystem/tree/master",
     },
   ];
   
@@ -374,7 +374,7 @@ export const Bio = {
         "Dark Patterns",
       ],
       category: "uxui",
-      link: "https://medium.com/@anubhxv/what-are-dark-patterns-and-ethical-design-ux-ceb3346f565a",
+      link: "https://medium.com/@theniketmishrav/what-are-dark-patterns-and-ethical-design-ux-ceb3346f565a",
     },
 
     {
@@ -391,7 +391,7 @@ export const Bio = {
         "Dark Patterns",
       ],
       category: "tech",
-      link: "https://medium.com/@anubhxv/ai-vs-data-analysts-in-the-world-of-data-analysis-82f005b40b5e",
+      link: "https://medium.com/@theniketmishrav/ai-vs-data-analysts-in-the-world-of-data-analysis-82f005b40b5e",
     },
 
     {
@@ -408,7 +408,7 @@ export const Bio = {
         "Dark Patterns",
       ],
       category: "uxui",
-      link: "https://medium.com/@anubhxv/unveiling-the-60-30-10-rule-in-ux-ui-design-5b7c16fa6e3f",
+      link: "https://medium.com/@theniketmishrav/unveiling-the-60-30-10-rule-in-ux-ui-design-5b7c16fa6e3f",
     },
 
     {
@@ -424,7 +424,7 @@ export const Bio = {
         "Case Studies",
       ],
       category: "uxui",
-      link: "https://medium.com/@anubhxv/top-6-ux-case-studies-that-redefined-user-experiences-137cfe58d6a1",
+      link: "https://medium.com/@theniketmishrav/top-6-ux-case-studies-that-redefined-user-experiences-137cfe58d6a1",
     },
 
     {
@@ -442,7 +442,7 @@ export const Bio = {
       ],
       category: "dev",
 
-      link: "https://anubhxv.medium.com/a-beginners-guide-to-react-native-for-ux-designers-55b268992e35",
+      link: "https://theniketmishrav.medium.com/a-beginners-guide-to-react-native-for-ux-designers-55b268992e35",
     },
 
     

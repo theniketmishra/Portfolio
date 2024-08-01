@@ -51,7 +51,7 @@ function App() {
 
                 <Skills />
                 <Experience />
-                <Blogs/>
+                {/* <Blogs/> */}
               </Wrapper>
               
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
